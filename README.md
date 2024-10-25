@@ -23,4 +23,7 @@ Whether you're a beginner or an experienced developer, this repository will guid
 ## Presentation Materials
 
 1. [Presentation: Intro to Microsoft Power Platform with
-Hands-on Session on Power Pages](./includes/presentation.md) (✅)
+Hands-on Session on Power Pages](./includes/presentation.md) (✅ Image files are currently supported for translation.)
+
+1. [Presentation: Intro to Microsoft Power Platform with
+Hands-on Session on Power Pages](./includes/Microsoft-Power-Platform-Intro.pdf) (❌ PDF files are not currently supported for translation.)
