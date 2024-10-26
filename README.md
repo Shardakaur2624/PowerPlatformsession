@@ -18,12 +18,12 @@ In this session, you will explore the Power Platform ecosystem, which empowers b
 
 Whether you're a beginner or an experienced developer, this repository will guide you through the basics, helping you to unlock the potential of the Power Platform and build web solutions that can drive real impact.
 
-![image](https://github.com/user-attachments/assets/61439aaa-bad0-474e-a396-7122486b8f79)
+![image](./media/Microsoft-Power-Platform-Intro-02.png)
 
 ## Presentation Materials
 
 1. [Presentation: Intro to Microsoft Power Platform with
-Hands-on Session on Power Pages](./includes/presentation.md) (✅ Image files are currently supported for translation.)
+Hands-on Session on Power Pages](./includes/Presentation.md) (✅ Image files are currently supported for translation.)
 
 1. [Presentation: Intro to Microsoft Power Platform with
 Hands-on Session on Power Pages](./includes/Microsoft-Power-Platform-Intro.pdf) (❌ PDF files are not currently supported for translation.)
